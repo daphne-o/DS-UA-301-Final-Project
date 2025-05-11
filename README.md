@@ -33,7 +33,7 @@ the emoji conversion by getting rid of repeated emoji descriptions if there is m
 - Tracked training/testing loss and accuracy across epochs
 - Evaluated with multiple metrics, including precision, recall, F1-score, accuracy (including macro average and weighted average accuracy), and a confusion matrix
 
-### CNN-Based Models *(used in the beginning stage of our project for experimentation before we switched to using a BERT model for the final version of our project)*
+### CNN-Based Models
 - A simple Conv1D + max-pooling architecture with an LSTM layer and GloVe embeddings.
 - The CNN results were incomplete due to earlier errors, and are not part of the final conclusions.
 
