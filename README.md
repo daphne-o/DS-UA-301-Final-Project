@@ -35,7 +35,7 @@ the emoji conversion by getting rid of repeated emoji descriptions if there is m
 
 ### CNN-Based Models
 - A simple Conv1D + max-pooling architecture with an LSTM layer and GloVe embeddings.
-- The CNN results were incomplete due to earlier errors, and are not part of the final conclusions.
+- The CNN results were incomplete due to earlier errors, and are not part of our final conclusions.
 
 ## Results Summary
 
