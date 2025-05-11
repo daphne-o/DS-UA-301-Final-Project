@@ -45,7 +45,7 @@ impact of emoji sentiment in online hate speech detection. Thus, the text + emoj
 
 ## Visualizations
 
-- Class distribution of training data
+- Class distribution in the dataset
 - Number of Emojis per Comment chart
 - Train/Test accuracy and loss over epochs
 - Confusion matrices
